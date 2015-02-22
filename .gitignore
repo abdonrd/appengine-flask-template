@@ -1,2 +1,5 @@
 # Byte-compiled / optimized / DLL files
 *.py[cod]
+
+# Don't include third-party packages.
+lib/
